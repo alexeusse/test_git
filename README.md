@@ -1,6 +1,6 @@
 # proyecto test 🏀 ⚽️
 
-proyecto de ek¡jemplo **git**
+proyecto de ejemplo **git**
 
 ```
 git clone...
